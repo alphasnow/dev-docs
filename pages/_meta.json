@@ -1,15 +1,16 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "开发文档",
+  "nextra": "Nextra文档",
+  "vercel": "Vercel部署",
+  "diary": "日记",
   "about": {
-    "title": "About",
+    "title": "关于",
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "联系 ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://github.com/alphasnow",
     "newWindow": true
   }
 }
